@@ -1,5 +1,6 @@
 # FishCuT
 Scripts to run FishCut software 
+
 FishCuT is a software package to analyze mCT image stacks in zebrafish, extract quantitative information, perform statistical analysis, visualize this data and reveal patterns and trends between different groups (mutants, treated/untreated).
 
 Please see our Elife paper for more information on FishCuT:
